@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @David-Odhiambo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently studying Software Engineering alongside Biomedicine
 - 💞️ I’m looking to collaborate on working with y'all
-- 📫 How to reach me...Kindly message
+- 📫 Kindly reach me via my personal email- raynedavey254@gmail.com
 
 <!---
 David-Odhiambo/David-Odhiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
