@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @David-Odhiambo
-- 👀 I’m interested in programming
+- 👋 Hi, I’m David-Odhiambo
+- 👀 Software programmer
 - 🌱 I’m currently studying Software Engineering alongside Biomedicine
 - 💞️ I’m looking forward to collaborate on working with y'all
 - 📫 Kindly reach me via my personal email- raynedavey254@gmail.com
